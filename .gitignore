@@ -1,0 +1,4 @@
+cat .gitignore
+
+x64/
+.vs/
